@@ -11,3 +11,4 @@ A list of workflows I created.
 - [Spoof](https://github.com/fnando/alfred-workflows/raw/master/Spoof.alfredworkflow): change your MAC address. Type `spoof` to change your `en0` interface or specify any interface like `spoof en1`.
 - [Token](https://github.com/fnando/alfred-workflows/raw/master/Token.alfredworkflow): use the `token` trigger to generate tokens.
 - [Vox](https://github.com/fnando/alfred-workflows/raw/master/Vox.alfredworkflow): manage Vox app from Alfred.
+- [launchd](https://github.com/fnando/alfred-workflows/raw/master/launchd.alfredworkflow): start/stop Homebrew-installed launchd files.
