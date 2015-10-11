@@ -18,7 +18,14 @@ Use the `url` trigger to copy current page title and URL from Safari/Chrome.
 
 [Download](https://github.com/fnando/alfred-workflows/raw/master/Copy%20Current%20URL.alfredworkflow)
 
-- [iTunes Current Track](https://github.com/fnando/alfred-workflows/raw/master/iTunes%20Current%20Track.alfredworkflow): use the `track` trigger to copy current playing song from iTunes.
+## iTunes Current Track
+
+use the `track` trigger to copy current playing song from iTunes.
+
+![](https://github.com/fnando/alfred-workflows/raw/master/screenshots/itunes-current-track.png)
+
+[Download](https://github.com/fnando/alfred-workflows/raw/master/iTunes%20Current%20Track.alfredworkflow)
+
 - [Open with Sublime Text](https://github.com/fnando/alfred-workflows/raw/master/Open%20with%20Sublime%20Text.alfredworkflow): open files/directories with Sublime Text.
 - [Prefpanes](https://github.com/fnando/alfred-workflows/raw/master/Prefpanes.alfredworkflow): always list prefpanes correctly. This fixed an issue with some prefpanes, like Network.
 - [Rdio](https://github.com/fnando/alfred-workflows/raw/master/Rdio.alfredworkflow): manage Rdio app from Alfred.
